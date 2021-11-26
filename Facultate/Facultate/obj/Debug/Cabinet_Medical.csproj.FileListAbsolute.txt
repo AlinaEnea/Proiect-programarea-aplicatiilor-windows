@@ -1,0 +1,108 @@
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\bin\Debug\Facultate.exe.config
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\bin\Debug\Facultate.exe
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\bin\Debug\Facultate.pdb
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.csprojAssemblyReference.cache
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.Properties.Resources.resources
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.csproj.GenerateResource.cache
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.csproj.CoreCompileInputs.cache
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.exe
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.pdb
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.FormPrincipal.resources
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddStudentForm.resources
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddDisciplinaForm.resources
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddAnStudiuForm.resources
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddNotaForm.resources
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.NoteStudentiForm.resources
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.SituatieFacultate.resources
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.GraficAniDeStudiu.resources
+C:\Users\Stefania Codruta\Desktop\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.Profesori.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\bin\Debug\Facultate.exe.config
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\bin\Debug\Facultate.exe
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\bin\Debug\Facultate.pdb
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.csprojAssemblyReference.cache
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddAnStudiuForm.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddDisciplinaForm.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddNotaForm.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddStudentForm.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.FormPrincipal.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.GraficAniDeStudiu.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.NoteStudentiForm.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.Profesori.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.Properties.Resources.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.SituatieFacultate.resources
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.csproj.GenerateResource.cache
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.csproj.CoreCompileInputs.cache
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.exe
+D:\AN3_EU\Resurse_PAW\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.pdb
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\bin\Debug\Facultate.exe.config
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\bin\Debug\Facultate.exe
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\bin\Debug\Facultate.pdb
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.csprojAssemblyReference.cache
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddAnStudiuForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddDisciplinaForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddNotaForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddStudentForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.FormPrincipal.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.GraficAniDeStudiu.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.NoteStudentiForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.Profesori.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.Properties.Resources.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.SituatieFacultate.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.csproj.GenerateResource.cache
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.exe
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.pdb
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.csprojAssemblyReference.cache
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.AddPacientiForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.AddRetetaForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.AddVechimeMediciForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.AddMedicForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.FormPrincipal.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.GraficConsultatii.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.VechimeMediciForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.Asistenti.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Facultate.Properties.Resources.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.SituatieCabinet.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.csproj.GenerateResource.cache
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\bin\Debug\Facultate.exe.config
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\bin\Debug\Facultate.exe
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\bin\Debug\Facultate.pdb
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Facultate.exe
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Facultate.pdb
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\bin\Debug\Facultate.exe.config
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\bin\Debug\Facultate.exe
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\bin\Debug\Facultate.pdb
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.csprojAssemblyReference.cache
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.AddPacientiForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.AddRetetaForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.AddVechimeMediciForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.AddMedicForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.FormPrincipal.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.GraficConsultatii.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.VechimeMediciForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.Asistenti.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Facultate.Properties.Resources.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.SituatieCabinet.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.csproj.GenerateResource.cache
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Facultate.exe
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Facultate.pdb
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\bin\Debug\Facultate.exe.config
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\bin\Debug\Facultate.exe
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\bin\Debug\Facultate.pdb
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.csproj.AssemblyReference.cache
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.AddPacientiForm.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.AddRetetaForm.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.AddVechimeMediciForm.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.AddMedicForm.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.FormPrincipal.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.GraficConsultatii.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.VechimeMediciForm.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.Asistenti.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Facultate.Properties.Resources.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.SituatieCabinet.resources
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.csproj.GenerateResource.cache
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Cabinet_Medical.csproj.CoreCompileInputs.cache
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Facultate.exe
+D:\Anul2\ProiectPaw_CabinetMedical\Facultate\Facultate\obj\Debug\Facultate.pdb

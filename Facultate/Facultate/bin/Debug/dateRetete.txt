@@ -1,0 +1,26 @@
+24
+Apa oxigenata,Reteta oficinala
+Unguent dr. T,Reteta magistrala
+Antibiotice polipeptide,Reteta tipizata
+Tinctura de iod,Reteta oficinala
+Hipertensiune Edeme,Reteta magistrala
+Tetraciclina,Reteta tipizata
+Alcool iodat,Reteta oficinala
+Colargol 1%,Reteta magistrala
+Cloramfenicol,Reteta tipizata
+Mixtura mentolata,Reteta oficinala
+Unguent pentru zona Zoster,Reteta magistrala
+Antivirale,Reteta tipizata
+Bixtonim,Reteta oficinala
+Solutie FEMA,Reteta magistrala 
+Clonidina,Reteta tipizata
+Diazepan,Reteta oficinala
+Efedrina,Reteta magistrala
+Ergotamina,Reteta tipizata
+Ergometrina,Reteta oficinala
+Ketamina,Reteta magistrala
+Solutan,Reteta tipizata
+Tiopental de sodiu,Reteta oficinala
+Tramadol,Reteta magistrala
+Trihexifenidil,Reteta tipizata
+

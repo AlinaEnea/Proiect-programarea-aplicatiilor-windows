@@ -1,0 +1,15 @@
+1, Manaila  Stefania, 2/22/1999, 4
+2, Lupu  Tatiana, 5/2/1998, 2
+3, Moise  Ana, 7/6/1998, 3
+4, Argaseala  Gabriela, 5/10/1999, 5
+5, Iordache  Eugen, 8/10/1997, 7
+6, Fatu  Iulia, 5/2/2000, 2
+7, Dumitrescu  Maria, 2/23/1999, 7
+8, Dobrescu  Bogdan, 8/2/1996, 4
+9, Dragomir  Mariana, 5/2/2000, 1
+10, Tirlea  Marius, 3/14/1997, 2
+11, Popescu  Andreea, 10/17/1999, 3
+12, Mircea  Oana, 6/20/1999, 3
+13, Iosef  Vladut, 4/20/2000, 6
+14, Maican  Vlad, 3/10/1997, 7
+15, Lupu  Tatiana, 5/2/1998, 1

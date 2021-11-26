@@ -1,0 +1,28 @@
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Cabinet Medical.csprojAssemblyReference.cache
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddPacientiForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddRetetaForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Cabinet_Medical.AddVechimeMediciForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.AddMedicForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Cabinet_Medical.FormPrincipal.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Cabinet_Medical.GraficConsultatii.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Cabinet_Medical.VechimeMediciForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.Asistenti.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.Properties.Resources.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Cabinet_Medical.SituatieCabinet.resources
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Cabinet Medical.csproj.GenerateResource.cache
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Cabinet Medical.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.exe
+C:\Users\Alina\Desktop\ProiectPaw_FACULTATE\Facultate\Facultate\obj\Debug\Facultate.pdb
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet Medical.csprojAssemblyReference.cache
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Facultate.AddPacientiForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Facultate.AddRetetaForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.AddVechimeMediciForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Facultate.AddMedicForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.FormPrincipal.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.GraficConsultatii.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.VechimeMediciForm.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Facultate.Asistenti.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Facultate.Properties.Resources.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet_Medical.SituatieCabinet.resources
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet Medical.csproj.GenerateResource.cache
+C:\Users\Alina\Desktop\ProiectPaw_CabinetMedical\Cabinet Medical\Cabinet Medical\obj\Debug\Cabinet Medical.csproj.CoreCompileInputs.cache
